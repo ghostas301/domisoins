@@ -1,0 +1,6 @@
+{
+  "name": "DomiSoins - Santé & Consultations à Domicile",
+  "description": "Plateforme de soins à domicile, consultations médicales, suivi des personnes âgées et patients chroniques, transport médicalisé et prise de rendez-vous en ligne.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
